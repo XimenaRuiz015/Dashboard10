@@ -1,0 +1,6 @@
+{
+  "name": "GanttFlow - Dashboard de Implementación",
+  "description": "Dashboard empresarial interactivo para gestión y seguimiento de proyectos con diagrama de Gantt, control de actividades y métricas en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
