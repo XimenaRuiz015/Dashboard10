@@ -1,9 +1,0 @@
-#;Prioridad;Actvidad;Responsable;Depende de;Duración;Estado
-1;Alta;Diagnosticar las zonas con saturación y definir cuántos AP se necesitan y dónde ubicarlos;Ingeniero de redes;Ninguna;10 dias;Pendiente
-2;Alta;Adquirir los AP (UniFi U7-Pro), tender el cableado Cat6 y los switches PoE necesarios, instalar los equipos y configurar VLAN, QoS y firewall.;Proveedor contratado;1;30 Dias;Pendiente
-3;Alta;Probar la cobertura y la capacidad en las zonas intervenidas: velocidad, estabilidad y número de usuarios por AP.;Ingeniero de redes;2;5 Dias;Pendiente
-4;Alta;Auditar la seguridad de la red: revisar las reglas del firewall y hacer pruebas de acceso no autorizado;Responsable de seguridad de la información;2;5 Dias;Pendiente
-5;Alta;Configurar el monitoreo de capacidad y estabilidad en el controlador UniFi, con alertas cuando una zona se acerque a la saturación.;Ingeniero de redes;3;5 Dias;Pendiente
-6;Media;Capacitar a la mesa de servicio y al personal de TI en la administración de la nueva red;Ingeniero de redes;3;5 Dias;Pendiente
-7;Baja;Informar a la comunidad académica sobre las nuevas zonas con cobertura;Comunicaciones institucionales;3;3 Dias;Pendiente
-8;Media;documentar la configuración, entregar el inventario de AP y firmar el acta de recibo;Coordinador de Recursos Informáticos;4,5,6;5 Dias;Pendiente
